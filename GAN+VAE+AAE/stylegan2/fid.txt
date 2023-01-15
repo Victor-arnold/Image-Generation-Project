@@ -1,0 +1,5 @@
+stylegan2     				54.87
+stylegan2+数据增强 			52.2
+stylegan2+数据增强+注意力层		56.93
+stylegan2+数据增强+截断潜在值	82.11
+stylegan2+数据增强+扩大网络容量	51.05
